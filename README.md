@@ -1,10 +1,14 @@
-## The project is no longer being monitored or updated
+# Origins
 
-# Autocompiler-Pug-Jade
+This package is a fork of https://github.com/Roobyx/Autocompiler-Pug-Jade which is not maintained any more. I have only made some minor changes to make it functional again.
 
-Compile .PUG and .JADE files directly in Atom
+All credits go to Marian Radev and Manuel Rueda.
 
-Find the Atom package here : https://atom.io/packages/autocompiler-pug-jade
+# Autocompiler-Pug
+
+Compile .PUG and .JADE files directly in Pulsar
+
+Find the Pulsar package here : https://packages.pulsar-edit.dev/packages/autocompiler-pug
 
 ## Be aweare that the PUG compiling is still work in progress and some features might not work
 
@@ -46,7 +50,9 @@ The two first comment blocks of file can be used to pass parameters to the compi
 ## License
   The MIT License (MIT)
 
+  Copyright (c) 2015 Manuel Rueda
   Copyright (c) 2016 Marian Radev
+  Copyright (c) 2026 Barna Kovács
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
