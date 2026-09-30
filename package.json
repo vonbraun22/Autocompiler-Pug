@@ -1951,7 +1951,7 @@
   "_spec": "C:\\Users\\radev\\AppData\\Local\\Temp\\d-116814-6548-tpio7u\\package.tgz",
   "_where": "C:\\Users\\radev\\AppData\\Local\\Temp\\apm-install-dir-116814-6548-bbxlzy",
   "author": {
-	 "name": "Barna Kovács"
+    "name": "Barna Kovács"
   },
   "bugs": {
     "url": "https://github.com/vonbraun22/Autocompiler-Pug/issues"
@@ -1988,5 +1988,5 @@
     "type": "git",
     "url": "git+https://github.com/vonbraun22/Autocompiler-Pug.git"
   },
-  "version": "2.0.2"
+  "version": "2.0.3"
 }
